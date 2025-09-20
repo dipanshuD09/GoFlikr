@@ -1,0 +1,11 @@
+============== BASIC INFO ============================
+
+Project        : E-commerce Platform for custom apprails for people of different Age Group
+Ecommerce Name : Flikr 
+Slogan         : Stay Trendy. Stay Flikr
+Color Scheme   : Background : #F7F7F7 (Light Grey)
+                 Text       : #222222 (Charcoal)
+                 Accent     : #1DB954 (Spotify Green) or #FF6F00 (Orange)
+				 Font       : Poppins 
+
+======================================================
